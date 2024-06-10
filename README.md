@@ -1,5 +1,6 @@
 # Rapport Projet Android
 
+Auteur : Elio Longuet MIN2
 
 ## Introduction
 L'application est une application Android développée en Kotlin et Java, utilisant le système de build Gradle. Elle permet aux utilisateurs de tester leurs connaissances en géographie en essayant de nommer des pays limitrophes les uns des autres. De plus, elle offre une fonctionnalité de recherche de pays par nom et capitale, un affichage détaillé des informations sur les pays, un mode hors ligne avec une fonctionnalité de favoris, et une base de données locale utilisant Room.
